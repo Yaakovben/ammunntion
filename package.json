@@ -2,11 +2,11 @@
   "name": "ammunntion",
   "version": "1.0.0",
   "main": "server.js",
-  "type": "module",
   "scripts": {
-    "srart": "nodemon ."
+    "start": "nodemon ."
   },
   "keywords": [],
+  "type": "module",
   "author": "",
   "license": "ISC",
   "description": "",
